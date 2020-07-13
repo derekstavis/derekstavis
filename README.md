@@ -1,16 +1,15 @@
-### Hi there 👋
+# README
 
-<!--
-**derekstavis/derekstavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey 👋 I'm a technology enthusiast living in Vancouver, British Columbia. I currently work as a Software Engineering Manager at @brexhq.
 
-Here are some ideas to get you started:
+## Things I deeply care about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- User experience design
+- Software architecture
+- Customers!
+
+## Things to know about me
+
+- I'm very passionate about what I do
+- I have strong reactions (positive and negative)
+- I never get upset with anything
