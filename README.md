@@ -1,5 +1,3 @@
-# README
-
 Hey 👋 I'm a technology enthusiast living in Vancouver, British Columbia. I currently work as a Software Engineering Manager at @brexhq.
 
 ## Things I deeply care about
