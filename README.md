@@ -11,8 +11,3 @@ I spend my free time 🔧 building software and hardware pet projects, 🛹 e-sk
 - Good software architecture ⚙️
 - People (and customers!) 👨‍
 - Shipping products 🚢 
-
-## Things to know about me
-
-- I'm very passionate about what I stand for ❤️
-- I often get frustrated but I hardly get upset 🥳
