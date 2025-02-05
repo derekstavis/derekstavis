@@ -1,13 +1,12 @@
 Hey 👋
 
-I'm a technology enthusiast living in Los Angeles. I currently work as a Software Engineering Manager at @brexhq and am responsible for Brex's Unified Design System.
+I'm a technology enthusiast living in the Bay Area. I'm currently a Senior Engineering Manager at @brexhq running the Frontend Platform team.
 
 
-I spend my free time 🔧 building software and hardware pet projects, 🛹 e-skateboarding around and 🥁 playing the drums.
+I spend my free time 🔧 building software and hardware pet projects and 🥁 playing the drums.
 
-## Things I deeply care about
+## Things I care about
 
-- Good user experience design 🎨
+- Good user experience 🎨
 - Good software architecture ⚙️
-- People (and customers!) 👨‍
-- Shipping products 🚢 
+- Shipping great products 🚢 
